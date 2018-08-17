@@ -2,10 +2,10 @@
   "name": "checkn",
   "version": "0.0.0",
   "description": "a checklist thing for badly organized humans",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Roope Tervo roope.a.tervo@gmail.com",
   "license": "ISC"
 }
