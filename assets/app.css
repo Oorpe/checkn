@@ -1,0 +1,25 @@
+.border{
+/*   border: 2px solid red; */
+}
+.blocky{
+  display: block;
+}
+.panel-title{
+  min-height: 30px;
+}
+.panel-body{
+  padding-right: 0px;
+}
+.panel-group{
+  margin-bottom: 5px;
+}
+.text-muted{
+    color: inherit;
+}
+.panel{
+      box-shadow: 0 2px 2px 2px rgba(0,0,0,.2);
+}
+
+.selected>.panel-heading{
+  background-color: azure
+}
